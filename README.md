@@ -1,6 +1,6 @@
 # LLM SMOTE Hybrid (LSH)
 ## |Paper| 
-* Hybrid Minority Oversampling via LLM-Generated Seeds and SMOTE Expansion 
+* Synthetic Data Generation Tabular Data via LLM-Seeds and SMOTE Expansion
 
 ## |How to use|
 ### 1. Data Generation.ipynb: Data generation with SMOTE, LLM, and LSH. This includes the generation of few-shot and zero-shot datasets.
