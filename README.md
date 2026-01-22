@@ -12,3 +12,4 @@
 * datagen.zip: LLM-based oversampler
 * df_meta_new.csv: Metadata of 60 datasets
 * data_num.zip: 102 datasets (including 60 datasets)
+  - To choose 'gpt-4o-mini' or 'Devstral 2', find the file 'datagen/aiutils/openai_utils.py' and choose one of the two, activate it.
